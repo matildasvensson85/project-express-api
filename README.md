@@ -1,3 +1,3 @@
 # Express API Project
 
-In this project, I created my own API.
+In this project I created my own API unsing Express.
